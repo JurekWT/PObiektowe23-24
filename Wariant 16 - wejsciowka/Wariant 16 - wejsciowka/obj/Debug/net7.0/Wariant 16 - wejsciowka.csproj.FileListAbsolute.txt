@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\bin\Debug\net7.0\Wariant 16 - wejsciowka.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\bin\Debug\net7.0\Wariant 16 - wejsciowka.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\bin\Debug\net7.0\Wariant 16 - wejsciowka.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\bin\Debug\net7.0\Wariant 16 - wejsciowka.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\bin\Debug\net7.0\Wariant 16 - wejsciowka.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.csproj.AssemblyReference.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\refint\Wariant 16 - wejsciowka.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\Wariant 16 - wejsciowka.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Wariant 16 - wejsciowka\Wariant 16 - wejsciowka\obj\Debug\net7.0\ref\Wariant 16 - wejsciowka.dll
