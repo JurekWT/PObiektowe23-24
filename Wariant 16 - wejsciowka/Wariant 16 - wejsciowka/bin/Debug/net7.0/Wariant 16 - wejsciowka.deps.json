@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Wariant 16 - wejsciowka/1.0.0": {
+        "runtime": {
+          "Wariant 16 - wejsciowka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wariant 16 - wejsciowka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
