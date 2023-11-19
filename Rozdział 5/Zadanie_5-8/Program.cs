@@ -6,9 +6,9 @@ internal class Program
     {
         string temp = x.ToString();
         int suma = 0;
-        for (int i = 0; i < temp.Length-1; i++)
+        for (int i = 0; i < temp.Length; i++)
         {
-            suma += temp[i];
+            suma += temp[i] - '0';
         }
         Console.WriteLine(suma);
 
