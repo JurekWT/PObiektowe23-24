@@ -1,0 +1,14 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\bin\Debug\net7.0\Zadanie_6-1.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\bin\Debug\net7.0\Zadanie_6-1.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\bin\Debug\net7.0\Zadanie_6-1.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\bin\Debug\net7.0\Zadanie_6-1.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\bin\Debug\net7.0\Zadanie_6-1.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\refint\Zadanie_6-1.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\Zadanie_6-1.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Rozdział 6\Zadanie_6-1\obj\Debug\net7.0\ref\Zadanie_6-1.dll
