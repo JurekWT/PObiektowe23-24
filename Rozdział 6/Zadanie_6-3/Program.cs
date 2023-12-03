@@ -32,15 +32,16 @@ internal class Program
 
         static void Najwiekszy(Prostokat[] tab)
         {
-            int max = tab[0].powierzchnia();
+            Prostokat max = tab[0];
             foreach (Prostokat p in tab)
             {
-                if (max < p.powierzchnia())
+                if ( < p.powierzchnia())
                 {
-                    max = p.powierzchnia();
+                    max.powierzchnia() = p.powierzchnia();
                 }
             }
-            Console.WriteLine("Największy prostokąt to ten o wymiarach");
+            
+            Console.WriteLine("Największy prostokąt: ");
         }
     }
     public static void Main(string[] args)
