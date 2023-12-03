@@ -4,8 +4,8 @@ internal class Program
 {
     public class Prostokat
     {
-        private int dlugosc;
-        private int szerokosc;
+        private readonly int dlugosc;
+        private readonly int szerokosc;
 
         public Prostokat(int length, int width)
         {
@@ -13,21 +13,20 @@ internal class Program
             szerokosc = width;
         }
 
-        private int powierzchnia(int a, int b)
+        private int powierzchnia()
         {
-            return a * b;
+            return dlugosc * szerokosc;
         }
 
-        private int obwod(int a, int b)
+        private int obwod()
         {
-            return 2 * a + 2 * b;
+            return 2 * dlugosc + 2 * szerokosc;
         }
 
         public void Prezentuj()
         {
-            Console.WriteLine("Prostokąt o wymiarach {2}x{3}\n" +
-                              "Powierzchnia: {0}, obwód: {1}", powierzchnia(dlugosc, szerokosc),
-                obwod(dlugosc, szerokosc), dlugosc, szerokosc);
+            Console.WriteLine(
+                $"Prostokąt o wymiarach {dlugosc}x{szerokosc} ma powierzchnię {powierzchnia()} i obwód {obwod()}");
         }
     }
     public static void Main(string[] args)

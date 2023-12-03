@@ -13,37 +13,36 @@ internal class Program
             szerokosc = width;
         }
 
-        private int powierzchnia(int a, int b)
+        private int powierzchnia()
         {
-            return a * b;
+            return dlugosc * szerokosc;
         }
 
-        private int obwod(int a, int b)
+        private int obwod()
         {
-            return 2 * a + 2 * b;
+            return 2 * dlugosc + 2 * szerokosc;
         }
 
         public void Prezentuj()
         {
-            Console.WriteLine("Prostokąt o wymiarach {2}x{3}\n" +
-                              "Powierzchnia: {0}, obwód: {1}", powierzchnia(dlugosc, szerokosc),
-                obwod(dlugosc, szerokosc), dlugosc, szerokosc);
+            Console.WriteLine(
+                $"Prostokąt o wymiarach {dlugosc}x{szerokosc} ma powierzchnię {powierzchnia()} i obwód {obwod()}");
         }
 
-        static void Najwiekszy(Prostokat[] tab)
+        public static void Najwiekszy(Prostokat[] tab)
         {
-            Prostokat max = tab[0];
+            int max = tab[0].powierzchnia();
             foreach (Prostokat p in tab)
             {
-                if ( < p.powierzchnia())
+                if (p.powierzchnia() > max)
                 {
-                    max.powierzchnia() = p.powierzchnia();
+                    max = p.powierzchnia();
                 }
             }
-            
-            Console.WriteLine("Największy prostokąt: ");
+            Console.WriteLine($"Powierzchnia największego prostokąta to {max}");
         }
     }
+
     public static void Main(string[] args)
     {
         Prostokat[] tabela = new Prostokat[3];
@@ -55,5 +54,7 @@ internal class Program
         {
             p.Prezentuj();
         }
+
+        Prostokat.Najwiekszy(tabela);
     }
 }
