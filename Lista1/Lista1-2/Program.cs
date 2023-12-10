@@ -16,5 +16,6 @@ internal class Program
         Dyrektor.plec = Osoba.Plec.M;
         Console.WriteLine($"Dyrektor {Dyrektor.imie} {Dyrektor.nazwisko}, wiek {Dyrektor.ObliczWiek()} lat");
         Dyrektor.ObliczBMI();
+        Dyrektor.KtoDyrektorem();
     }
 }

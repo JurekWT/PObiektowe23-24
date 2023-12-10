@@ -16,10 +16,23 @@ public class Osoba
 
     public Plec plec;
 
+    public void KtoDyrektorem()
+    {
+        if (plec == Plec.M)
+        {
+            Console.WriteLine($"Dyrektorem jest Pan {imie} {nazwisko}");
+        }
+        else
+        {
+            Console.WriteLine($"Dyrektorem jest Pani {imie} {nazwisko}");
+        }
+    }
+
     public int ObliczWiek()
     {
         return DateTime.Today.Year - rokUrodzenia;
     }
+    
 
     public void ObliczBMI()
     {
