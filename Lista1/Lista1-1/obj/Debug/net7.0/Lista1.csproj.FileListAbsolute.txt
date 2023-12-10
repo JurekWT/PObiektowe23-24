@@ -1,0 +1,14 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\bin\Debug\net7.0\Lista1.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\bin\Debug\net7.0\Lista1.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\bin\Debug\net7.0\Lista1.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\bin\Debug\net7.0\Lista1.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\bin\Debug\net7.0\Lista1.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\refint\Lista1.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\Lista1.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1\obj\Debug\net7.0\ref\Lista1.dll
