@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Wejściówka 10-12-2023/1.0.0": {
+        "runtime": {
+          "Wejściówka 10-12-2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wejściówka 10-12-2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

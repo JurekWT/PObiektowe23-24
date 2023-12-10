@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wejściówka 10-12-2023", "Wejściówka 10-12-2023\Wejściówka 10-12-2023.csproj", "{071A304D-2D4B-44E2-8BDA-D6B6076F591F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071A304D-2D4B-44E2-8BDA-D6B6076F591F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071A304D-2D4B-44E2-8BDA-D6B6076F591F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071A304D-2D4B-44E2-8BDA-D6B6076F591F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071A304D-2D4B-44E2-8BDA-D6B6076F591F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
