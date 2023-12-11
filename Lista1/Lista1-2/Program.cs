@@ -15,7 +15,10 @@ internal class Program
         Dyrektor.okulary = true;
         Dyrektor.plec = Osoba.Plec.M;
         Console.WriteLine($"Dyrektor {Dyrektor.imie} {Dyrektor.nazwisko}, wiek {Dyrektor.ObliczWiek()} lat");
-        Dyrektor.ObliczBMI();
+        Osoba pacjent = new Osoba();
+        pacjent.waga = 120.40;
+        pacjent.wzrost = 188.00;
+        pacjent.ObliczBMI();
         Dyrektor.KtoDyrektorem();
     }
 }

@@ -12,3 +12,4 @@ C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-3\obj\Debug\net7.0
 C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-3\obj\Debug\net7.0\Lista1-3.pdb
 C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-3\obj\Debug\net7.0\Lista1-3.genruntimeconfig.cache
 C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-3\obj\Debug\net7.0\ref\Lista1-3.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-3\obj\Debug\net7.0\Lista1-3.sourcelink.json
