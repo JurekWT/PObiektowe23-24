@@ -17,10 +17,11 @@ public class Koszyk
     public void WyswietlZawartosc()
     {
         double suma = 0.00;
-        for (int i = 0; i < listaTowarow.Count; i++)
+        foreach (Produkt produkt in listaTowarow)
         {
-            suma += listaTowarow[i].Cena;
+            suma += produkt.Cena;
         }
+
         Console.WriteLine($"Ilość towarów w koszyku: {listaTowarow.Count}");
         Console.WriteLine($"Razem: {suma:F2} zł");
     }
