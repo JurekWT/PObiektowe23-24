@@ -13,13 +13,15 @@
             {
                 tabela[25] = 2;
             }
-            catch ()
-            {
-                Console.WriteLine("Błąd");
-            }
+
             catch (IndexOutOfRangeException e)
             {
                 Console.WriteLine(e.Message);
+            }
+
+            catch (Exception)
+            {
+                Console.WriteLine("Błąd");
             }
 
             /*try
