@@ -1,5 +1,3 @@
-using System.Reflection.PortableExecutable;
-using Gat.Controls;
 
 namespace Lista2;
 
@@ -28,6 +26,6 @@ public class Car
 
     ~Car()
     {
-        
+
     }
 }
