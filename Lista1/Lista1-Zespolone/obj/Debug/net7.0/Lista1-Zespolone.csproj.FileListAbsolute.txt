@@ -1,0 +1,14 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\bin\Debug\net7.0\Lista1-Zespolone.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\bin\Debug\net7.0\Lista1-Zespolone.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\bin\Debug\net7.0\Lista1-Zespolone.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\bin\Debug\net7.0\Lista1-Zespolone.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\bin\Debug\net7.0\Lista1-Zespolone.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\refint\Lista1-Zespolone.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\Lista1-Zespolone.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista1\Lista1-Zespolone\obj\Debug\net7.0\ref\Lista1-Zespolone.dll
