@@ -4,79 +4,143 @@
     {
         static void Main(string[] args)
         {
-            int input = -1;
-            double a, b;
-            while (input != 0)
-            {
-                Console.WriteLine("Wybierz działanie:");
-                Console.WriteLine("1. Dodawanie");
-                Console.WriteLine("2. Odejmowanie");
-                Console.WriteLine("3. Mnożenie");
-                Console.WriteLine("4. Dzielenie");
-                Console.WriteLine("5. Potęgowanie");
-                Console.WriteLine("6. Pierwiastkowanie");
-                Console.WriteLine("0. Wyjdź");
-                input = int.Parse(Console.ReadLine());
+            int menu = -1;
 
-                switch (input)
+            while (menu != 0)
+            {
+                if (menu == 1)
                 {
-                    case 1:
-                        Console.WriteLine("Podaj pierwszą liczbę");
-                        a = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Podaj drugą liczbę");
-                        b = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik: " + Obliczenia.Dodawanie(a, b));
-                        break;
-                    case 2:
-                        Console.WriteLine("Podaj pierwszą liczbę");
-                        a = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Podaj drugą liczbę");
-                        b = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik: " + Obliczenia.Odejmowanie(a, b));
-                        break;
-                    case 3:
-                        Console.WriteLine("Podaj pierwszą liczbę");
-                        a = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Podaj drugą liczbę");
-                        b = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik: " + Obliczenia.Mnozenie(a, b));
-                        break;
-                    case 4:
-                        Console.WriteLine("Podaj pierwszą liczbę");
-                        a = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Podaj drugą liczbę");
-                        b = double.Parse(Console.ReadLine());
-                        try
-                        {
-                            Console.WriteLine("Wynik: " + Obliczenia.Dzielenie(a, b));
-                        }
-                        catch (DivideByZeroException)
-                        {
-                            Console.WriteLine("Nie można dzielić przez zero. Wprowadź liczby jeszcze raz.");
-                            goto case 4;
-                        }
-                        break;
-                    case 5:
-                        Console.WriteLine("Podaj liczbę");
-                        a = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Podaj wykładnik");
-                        b = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik: " + Obliczenia.Potegowanie(a, b));
-                        break;
-                    case 6:
-                        Console.WriteLine("Podaj liczbę");
-                        a = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Podaj stopień pierwiastka");
-                        b = double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik: " + Obliczenia.Pierwiastkowanie(a, b));
-                        break;
-                    case 0:
-                        break;
-                    default:
-                        Console.WriteLine("Błąd, wprowadź liczbę 1-6");
-                        input = int.Parse(Console.ReadLine());
-                        break;
-                } 
+                    try
+                    {
+                        Console.WriteLine("Podaj pierwszą liczbę:");
+                        Obliczenia.l1 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Podaj drugą liczbę:");
+                        Obliczenia.l2 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Wynik:" + Obliczenia.Dodawanie());
+                        menu = -1;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Nie podano liczby!");
+                        menu = 1;
+                    }
+
+                }
+                
+                else if (menu == 2)
+                {
+                    try
+                    {
+                        Console.WriteLine("Podaj pierwszą liczbę:");
+                        Obliczenia.l1 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Podaj drugą liczbę:");
+                        Obliczenia.l2 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Wynik:" + Obliczenia.Odejmowanie());
+                        menu = -1;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Nie podano liczby!");
+                        menu = 2;
+                    }
+                }
+                
+                else if (menu == 3)
+                {
+                    try
+                    {
+                        Console.WriteLine("Podaj pierwszą liczbę:");
+                        Obliczenia.l1 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Podaj drugą liczbę:");
+                        Obliczenia.l2 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Wynik:" + Obliczenia.Mnozenie());
+                        menu = -1;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Nie podano liczby!");
+                        menu = 3;
+                    }
+                }
+                
+                else if (menu == 4)
+                {
+                    try
+                    {
+                        Console.WriteLine("Podaj pierwszą liczbę:");
+                        Obliczenia.l1 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Podaj drugą liczbę:");
+                        Obliczenia.l2 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine(Obliczenia.Dzielenie());
+                        menu = -1;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Nie podano liczby!");
+                        menu = 4;
+                    }
+                    catch (DivideByZeroException)
+                    {
+                        Console.WriteLine("Nie można dzielić przez zero!");
+                        menu = 4;
+                    }
+                }
+                
+                else if (menu == 5)
+                {
+                    try
+                    {
+                        Console.WriteLine("Podaj liczbę:");
+                        Obliczenia.l1 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Podaj wykładnik:");
+                        Obliczenia.l2 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Wynik:" + Obliczenia.Potegowanie());
+                        menu = -1;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Nie podano liczby!");
+                        menu = 5;
+                    }
+                }
+                
+                else if (menu == 6)
+                {
+                    try
+                    {
+                        Console.WriteLine("Podaj liczbę:");
+                        Obliczenia.l1 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Podaj stopień pierwiastka:");
+                        Obliczenia.l2 = Double.Parse(Console.ReadLine());
+                        Console.WriteLine("Wynik:" + Obliczenia.Pierwiastkowanie());
+                        menu = -1;
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Nie podano liczby!");
+                        menu = 6;
+                    }
+                }
+
+                else
+                {
+                    Console.WriteLine("Wybierz działanie:");
+                    Console.WriteLine("1. Dodawanie");
+                    Console.WriteLine("2. Odejmowanie");
+                    Console.WriteLine("3. Mnożenie");
+                    Console.WriteLine("4. Dzielenie");
+                    Console.WriteLine("5. Potęgowanie");
+                    Console.WriteLine("6. Pierwiastkowanie");
+                    Console.WriteLine("0. Wyjdź");
+                    try
+                    {
+                        menu = int.Parse(Console.ReadLine());
+                    }
+                    catch (System.FormatException)
+                    {
+                        Console.WriteLine("Podaj cyfrę żeby wybrać działanie");
+                    }
+                }
             }
         }
     }

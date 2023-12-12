@@ -6,37 +6,37 @@ using System.Threading.Tasks;
 
 namespace Ćwiczenie1
 {
-    internal class Obliczenia
+    static class Obliczenia
     {
-        private double l1;
-        private double l2;
+        public static double l1;
+        public static double l2;
 
-        public static double Dodawanie(double l1, double l2)
+        public static double Dodawanie()
         {
             return l1 + l2;
         }
 
-        public static double Odejmowanie(double l1, double l2)
+        public static double Odejmowanie()
         {
             return l1 - l2;
         }
 
-        public static double Mnozenie(double l1, double l2)
+        public static double Mnozenie()
         {
             return l1 * l2;
         }
 
-        public static double Dzielenie(double l1, double l2)
+        public static double Dzielenie()
         {
             return l1 / l2;
         }
 
-        public static double Potegowanie(double l1, double l2)
+        public static double Potegowanie()
         {
             return Math.Pow(l1, l2);
         }
 
-        public static double Pierwiastkowanie(double l1, double l2)
+        public static double Pierwiastkowanie()
         {
             return Math.Pow(l1, 1 / l2);
         }
