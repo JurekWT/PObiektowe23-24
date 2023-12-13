@@ -1,18 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-1", "Zadanie_6-1\Zadanie_6-1.csproj", "{72ED5586-E7E4-4818-AD06-BBD823F41AB4}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-1", "Zadanie_6-1\Zadanie_6-1.csproj", "{72ED5586-E7E4-4818-AD06-BBD823F41AB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-2", "Zadanie_6-2\Zadanie_6-2.csproj", "{9DDD24F7-C712-4BBB-94B5-0BD10179CB22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-2", "Zadanie_6-2\Zadanie_6-2.csproj", "{9DDD24F7-C712-4BBB-94B5-0BD10179CB22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-3", "Zadanie_6-3\Zadanie_6-3.csproj", "{FEE37734-D98A-4907-B607-0A22B5EF4957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-3", "Zadanie_6-3\Zadanie_6-3.csproj", "{FEE37734-D98A-4907-B607-0A22B5EF4957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-4", "Zadanie_6-4\Zadanie_6-4.csproj", "{F4DEAD89-5186-4E5F-A933-387CAF9F1466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-4", "Zadanie_6-4\Zadanie_6-4.csproj", "{F4DEAD89-5186-4E5F-A933-387CAF9F1466}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-5", "Zadanie_6-5\Zadanie_6-5.csproj", "{3F2B388E-2A32-4EE1-BD68-B3998FDABFA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-5", "Zadanie_6-5\Zadanie_6-5.csproj", "{3F2B388E-2A32-4EE1-BD68-B3998FDABFA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-6", "Zadanie_6-6\Zadanie_6-6.csproj", "{8E02D2CA-FCA9-42F6-991D-4A3605BECE6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-6", "Zadanie_6-6\Zadanie_6-6.csproj", "{8E02D2CA-FCA9-42F6-991D-4A3605BECE6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-7", "Zadanie_6-7\Zadanie_6-7.csproj", "{F36459F5-6699-43B2-9B52-AE52E9A9EA64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadanie_6-7", "Zadanie_6-7\Zadanie_6-7.csproj", "{F36459F5-6699-43B2-9B52-AE52E9A9EA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6-8", "Zadanie_6-8\Zadanie_6-8.csproj", "{43B91C58-22C9-4DE1-A871-343E63CF6B8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,5 +53,12 @@ Global
 		{F36459F5-6699-43B2-9B52-AE52E9A9EA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F36459F5-6699-43B2-9B52-AE52E9A9EA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F36459F5-6699-43B2-9B52-AE52E9A9EA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B91C58-22C9-4DE1-A871-343E63CF6B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B91C58-22C9-4DE1-A871-343E63CF6B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B91C58-22C9-4DE1-A871-343E63CF6B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B91C58-22C9-4DE1-A871-343E63CF6B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
