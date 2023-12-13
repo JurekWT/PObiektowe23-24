@@ -4,18 +4,18 @@ internal class Program
 {
     public class Punkt
     {
-        public int WspA { get; set; }
-        public int WspB { get; set; }
+        public decimal WspA { get; set; }
+        public decimal WspB { get; set; }
         public string NazwaPunktu { get; set; }
 
-        public Punkt(string nazwa, int osX, int osY)
+        public Punkt(string nazwa, decimal osX, decimal osY)
         {
             this.WspA = osX;
             this.WspB = osY;
             this.NazwaPunktu = nazwa;
         }
 
-        public void Przesun(int osX, int osY)
+        public void Przesun(decimal osX, decimal osY)
         {
             WspA += osX;
             WspB += osY;
@@ -39,16 +39,21 @@ internal class Program
             this.B = b;
         }
 
-        public void Dlugosc()
+        public double Dlugosc()
         {
-            
+            double temp;
+            temp = Math.Sqrt(Math.Pow((double)(A.WspB - A.WspA), 2) + Math.Pow((double)(B.WspB - B.WspA), 2));
+            return temp;
         }
         
     }
     public static void Main(string[] args)
     {
-        Punkt a = new Punkt("A",4, 6);
+        Punkt a = new Punkt("A",0, 6);
+        Punkt b = new Punkt("B",6, 5);
         a.Przesun(2,0);
         a.Wyswietl();
+        Odcinek odcinek = new Odcinek(a, b);
+        Console.WriteLine(odcinek.Dlugosc());
     }
 }
