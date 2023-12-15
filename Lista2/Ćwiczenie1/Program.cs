@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int menu = -1;
+            var menu = -1;
 
             while (menu != 0)
             {
@@ -16,10 +16,10 @@
                         Obliczenia.l1 = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Podaj drugą liczbę:");
                         Obliczenia.l2 = Double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik:" + Obliczenia.Dodawanie());
+                        Obliczenia.Dodawanie();
                         menu = -1;
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Nie podano liczby!");
                         menu = 1;
@@ -35,10 +35,10 @@
                         Obliczenia.l1 = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Podaj drugą liczbę:");
                         Obliczenia.l2 = Double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik:" + Obliczenia.Odejmowanie());
+                        Obliczenia.Odejmowanie();
                         menu = -1;
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Nie podano liczby!");
                         menu = 2;
@@ -53,10 +53,10 @@
                         Obliczenia.l1 = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Podaj drugą liczbę:");
                         Obliczenia.l2 = Double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik:" + Obliczenia.Mnozenie());
+                        Obliczenia.Mnozenie();
                         menu = -1;
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Nie podano liczby!");
                         menu = 3;
@@ -71,17 +71,12 @@
                         Obliczenia.l1 = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Podaj drugą liczbę:");
                         Obliczenia.l2 = Double.Parse(Console.ReadLine());
-                        Console.WriteLine(Obliczenia.Dzielenie());
+                        Obliczenia.Dzielenie();
                         menu = -1;
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Nie podano liczby!");
-                        menu = 4;
-                    }
-                    catch (DivideByZeroException)
-                    {
-                        Console.WriteLine("Nie można dzielić przez zero!");
                         menu = 4;
                     }
                 }
@@ -94,10 +89,10 @@
                         Obliczenia.l1 = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Podaj wykładnik:");
                         Obliczenia.l2 = Double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik:" + Obliczenia.Potegowanie());
+                        Obliczenia.Potegowanie();
                         menu = -1;
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Nie podano liczby!");
                         menu = 5;
@@ -112,10 +107,10 @@
                         Obliczenia.l1 = Double.Parse(Console.ReadLine());
                         Console.WriteLine("Podaj stopień pierwiastka:");
                         Obliczenia.l2 = Double.Parse(Console.ReadLine());
-                        Console.WriteLine("Wynik:" + Obliczenia.Pierwiastkowanie());
+                        Obliczenia.Pierwiastkowanie();
                         menu = -1;
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Nie podano liczby!");
                         menu = 6;
@@ -136,7 +131,7 @@
                     {
                         menu = int.Parse(Console.ReadLine());
                     }
-                    catch (System.FormatException)
+                    catch (FormatException)
                     {
                         Console.WriteLine("Podaj cyfrę żeby wybrać działanie");
                     }

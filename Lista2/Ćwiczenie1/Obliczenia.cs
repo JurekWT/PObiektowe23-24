@@ -11,34 +11,42 @@ namespace Ćwiczenie1
         public static double l1;
         public static double l2;
 
-        public static double Dodawanie()
+        public static void Dodawanie()
         {
-            return l1 + l2;
+            Console.WriteLine(l1 + l2);
         }
 
-        public static double Odejmowanie()
+        public static void Odejmowanie()
         {
-            return l1 - l2;
+            Console.WriteLine(l1 - l2);
         }
 
-        public static double Mnozenie()
+        public static void Mnozenie()
         {
-            return l1 * l2;
+            Console.WriteLine(l1 * l2);
         }
 
-        public static double Dzielenie()
+        public static void Dzielenie()
         {
-            return l1 / l2;
+            try
+            {
+                var temp = l1 / l2;
+                Console.WriteLine(temp);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Nie można dzielić przez zero");
+            }
         }
 
-        public static double Potegowanie()
+        public static void Potegowanie()
         {
-            return Math.Pow(l1, l2);
+            Console.WriteLine(Math.Pow(l1, l2));
         }
 
-        public static double Pierwiastkowanie()
+        public static void Pierwiastkowanie()
         {
-            return Math.Pow(l1, 1 / l2);
+            Console.WriteLine(Math.Pow(l1, 1 / l2));
         }
     }
 }
