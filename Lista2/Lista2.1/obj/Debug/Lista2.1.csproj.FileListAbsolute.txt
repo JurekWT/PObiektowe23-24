@@ -1,0 +1,6 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista2\Lista2.1\bin\Debug\Lista2._1.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista2\Lista2.1\bin\Debug\Lista2._1.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista2\Lista2.1\obj\Debug\Lista2.1.csproj.AssemblyReference.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista2\Lista2.1\obj\Debug\Lista2.1.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista2\Lista2.1\obj\Debug\Lista2._1.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista2\Lista2.1\obj\Debug\Lista2._1.pdb

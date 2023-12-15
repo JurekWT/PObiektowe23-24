@@ -1,4 +1,6 @@
 
+using System.Runtime.CompilerServices;
+
 namespace Lista2;
 
 public class Car
@@ -6,7 +8,6 @@ public class Car
     public double PojemnoscSilnika { get; set; }
     public string Marka { get; set; }
     public static int iloscKol;
-
     static Car()
     {
         iloscKol = 4;
@@ -26,6 +27,5 @@ public class Car
 
     ~Car()
     {
-
     }
 }
