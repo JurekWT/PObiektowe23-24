@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\bin\Debug\net8.0\Rzutowanie.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\bin\Debug\net8.0\Rzutowanie.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\bin\Debug\net8.0\Rzutowanie.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\bin\Debug\net8.0\Rzutowanie.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\bin\Debug\net8.0\Rzutowanie.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\refint\Rzutowanie.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\Rzutowanie.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Rzutowanie\obj\Debug\net8.0\ref\Rzutowanie.dll

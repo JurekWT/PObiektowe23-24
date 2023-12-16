@@ -1,0 +1,6 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Lista3\bin\Debug\Lista3.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Lista3\bin\Debug\Lista3.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Lista3\obj\Debug\Lista3.csproj.AssemblyReference.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Lista3\obj\Debug\Lista3.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Lista3\obj\Debug\Lista3.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Lista3\obj\Debug\Lista3.pdb

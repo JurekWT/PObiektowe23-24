@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\bin\Debug\net8.0\interfesj.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\bin\Debug\net8.0\interfesj.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\bin\Debug\net8.0\interfesj.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\bin\Debug\net8.0\interfesj.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\bin\Debug\net8.0\interfesj.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\refint\interfesj.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\interfesj.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\interfesj\obj\Debug\net8.0\ref\interfesj.dll
