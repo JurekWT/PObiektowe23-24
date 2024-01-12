@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfesj", "interfesj\interfesj.csproj", "{0C6358E9-6CBD-4E3C-AE5E-EB449EDA8DA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt TEST", "Projekt TEST\Projekt TEST.csproj", "{74C7B38B-AC80-4382-ADC8-805212FAD433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0C6358E9-6CBD-4E3C-AE5E-EB449EDA8DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C6358E9-6CBD-4E3C-AE5E-EB449EDA8DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C6358E9-6CBD-4E3C-AE5E-EB449EDA8DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C7B38B-AC80-4382-ADC8-805212FAD433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C7B38B-AC80-4382-ADC8-805212FAD433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C7B38B-AC80-4382-ADC8-805212FAD433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C7B38B-AC80-4382-ADC8-805212FAD433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

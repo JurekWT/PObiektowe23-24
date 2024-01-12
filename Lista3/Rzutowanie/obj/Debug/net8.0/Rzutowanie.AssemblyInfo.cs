@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rzutowanie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd09a9fba2c300127ac733fdc3dbfadbc7b055a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rzutowanie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rzutowanie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

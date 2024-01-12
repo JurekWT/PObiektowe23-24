@@ -8,7 +8,11 @@ class Program
         Bicycle bicycle1 = new Bicycle();
         car1.Ride();
         bicycle1.Ride();
-        Osoba osoba1 = new Osoba();
-        osoba1.Graj();
+        Osoba osoba = new Osoba();
+        osoba.Graj();
+        IGitarzysta gitarzysta = osoba;
+        gitarzysta.Graj();
+        ISkrzypek skrzypek = osoba;
+        skrzypek.Graj();
     }
 }

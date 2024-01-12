@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\bin\Debug\net8.0\Projekt TEST.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\bin\Debug\net8.0\Projekt TEST.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\bin\Debug\net8.0\Projekt TEST.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\bin\Debug\net8.0\Projekt TEST.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\bin\Debug\net8.0\Projekt TEST.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\refint\Projekt TEST.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\Projekt TEST.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista3\Projekt TEST\obj\Debug\net8.0\ref\Projekt TEST.dll
