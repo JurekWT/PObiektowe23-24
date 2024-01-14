@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\bin\Debug\net8.0\Wyjątki.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\bin\Debug\net8.0\Wyjątki.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\bin\Debug\net8.0\Wyjątki.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\bin\Debug\net8.0\Wyjątki.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\bin\Debug\net8.0\Wyjątki.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\refint\Wyjątki.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\Wyjątki.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wyjątki\obj\Debug\net8.0\ref\Wyjątki.dll
