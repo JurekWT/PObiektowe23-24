@@ -1,7 +1,27 @@
-﻿namespace Wyjątki;
+﻿using System.Runtime.Serialization;
+
+namespace Wyjątki;
 
 class Program
 {
+    public class NaszWyjatekException : SystemException
+    {
+        public NaszWyjatekException()
+        {
+        }
+
+        protected NaszWyjatekException(SerializationInfo info, StreamingContext context) : base(info, context)
+        {
+        }
+
+        public NaszWyjatekException(string? message) : base(message)
+        {
+        }
+
+        public NaszWyjatekException(string? message, Exception? innerException) : base(message, innerException)
+        {
+        }
+    }
     static void Main(string[] args)
     {
         static void metoda23()

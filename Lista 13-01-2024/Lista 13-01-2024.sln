@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyjątki", "Wyjątki\Wyjątki.csproj", "{5878CBFD-3724-4871-BB5C-1F38C9C234E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wątki", "Wątki\Wątki.csproj", "{F31F65DB-3924-4136-9195-0E5ECF6528D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulator", "Kalkulator\Kalkulator.csproj", "{ED013EBE-665C-41BD-90FD-89B8984B66E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{5878CBFD-3724-4871-BB5C-1F38C9C234E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5878CBFD-3724-4871-BB5C-1F38C9C234E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5878CBFD-3724-4871-BB5C-1F38C9C234E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31F65DB-3924-4136-9195-0E5ECF6528D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31F65DB-3924-4136-9195-0E5ECF6528D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31F65DB-3924-4136-9195-0E5ECF6528D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31F65DB-3924-4136-9195-0E5ECF6528D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED013EBE-665C-41BD-90FD-89B8984B66E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED013EBE-665C-41BD-90FD-89B8984B66E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED013EBE-665C-41BD-90FD-89B8984B66E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED013EBE-665C-41BD-90FD-89B8984B66E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

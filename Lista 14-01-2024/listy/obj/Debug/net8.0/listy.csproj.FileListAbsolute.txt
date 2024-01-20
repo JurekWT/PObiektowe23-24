@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\bin\Debug\net8.0\listy.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\bin\Debug\net8.0\listy.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\bin\Debug\net8.0\listy.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\bin\Debug\net8.0\listy.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\bin\Debug\net8.0\listy.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\refint\listy.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\listy.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 14-01-2024\listy\obj\Debug\net8.0\ref\listy.dll

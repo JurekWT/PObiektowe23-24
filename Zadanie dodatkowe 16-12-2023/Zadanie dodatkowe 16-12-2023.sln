@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pierwszy", "pierwszy\pierwszy.csproj", "{1687A8A6-9C03-4D56-8B27-18B3EDBC190F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figury", "Figury\Figury.csproj", "{62AF32E6-B86F-437B-9C89-63377E090C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1687A8A6-9C03-4D56-8B27-18B3EDBC190F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1687A8A6-9C03-4D56-8B27-18B3EDBC190F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1687A8A6-9C03-4D56-8B27-18B3EDBC190F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1687A8A6-9C03-4D56-8B27-18B3EDBC190F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AF32E6-B86F-437B-9C89-63377E090C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AF32E6-B86F-437B-9C89-63377E090C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AF32E6-B86F-437B-9C89-63377E090C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AF32E6-B86F-437B-9C89-63377E090C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

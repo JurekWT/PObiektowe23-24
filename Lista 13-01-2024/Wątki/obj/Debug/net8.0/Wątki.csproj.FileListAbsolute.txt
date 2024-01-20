@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\bin\Debug\net8.0\Wątki.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\bin\Debug\net8.0\Wątki.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\bin\Debug\net8.0\Wątki.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\bin\Debug\net8.0\Wątki.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\bin\Debug\net8.0\Wątki.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\refint\Wątki.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\Wątki.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Lista 13-01-2024\Wątki\obj\Debug\net8.0\ref\Wątki.dll
