@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kolokwium 2 - 20-01-2024/1.0.0": {
+        "runtime": {
+          "Kolokwium 2 - 20-01-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kolokwium 2 - 20-01-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
