@@ -6,12 +6,17 @@ public abstract class Figura
     protected int zmienna2;
     protected int zmienna3;
 
-    public abstract void Pole();
+    public abstract void ObliczPole();
 }
 
 public class Kwadrat : Figura
 {
-    public override void Pole()
+    public Kwadrat(int a)
+    {
+        base.zmienna1 = a;
+    }
+
+    public override void ObliczPole()
     {
         Console.WriteLine($"Pole kwadratu {zmienna1*zmienna1}");
     }
@@ -19,7 +24,13 @@ public class Kwadrat : Figura
 
 public class Trojkat : Figura
 {
-    public override void Pole()
+    public Trojkat(int a, int h)
+    {
+        zmienna1 = a;
+        zmienna2 = h;
+    }
+
+    public override void ObliczPole()
     {
         Console.WriteLine($"Pole trójkąta {0.5*zmienna1*zmienna2}");
     }

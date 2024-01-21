@@ -1,0 +1,15 @@
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\bin\Debug\net8.0\Figury.exe
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\bin\Debug\net8.0\Figury.deps.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\bin\Debug\net8.0\Figury.runtimeconfig.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\bin\Debug\net8.0\Figury.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\bin\Debug\net8.0\Figury.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.AssemblyInfoInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.AssemblyInfo.cs
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.csproj.CoreCompileInputs.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.sourcelink.json
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\refint\Figury.dll
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.pdb
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\Figury.genruntimeconfig.cache
+C:\Users\Jurek\Documents\GitHub\PObiektowe23-24\Zadanie dodatkowe 16-12-2023\Figury\obj\Debug\net8.0\ref\Figury.dll

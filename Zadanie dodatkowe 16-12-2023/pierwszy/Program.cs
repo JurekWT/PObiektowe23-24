@@ -21,7 +21,8 @@ class Program
             pracownik.Pracuj();
         }
 
-
+        Osoba student1 = new Student("Janek","Kowalski",3,3,123654);
+        student1.WypiszInfo();
 
     }
 }
